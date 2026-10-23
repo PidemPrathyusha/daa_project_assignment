@@ -1,0 +1,30 @@
+{
+  "plan": [
+    [
+      "/home/rgukt/Desktop/practice_file/first.txt",
+      "/home/rgukt/Desktop/practice_file/_organized/txt/1_first.txt"
+    ],
+    [
+      "/home/rgukt/Desktop/practice_file/second.txt",
+      "/home/rgukt/Desktop/practice_file/_organized/txt/2_second.txt"
+    ],
+    [
+      "/home/rgukt/Desktop/practice_file/third.txt",
+      "/home/rgukt/Desktop/practice_file/_organized/txt/3_third.txt"
+    ]
+  ],
+  "created": [
+    {
+      "path": "/home/rgukt/Desktop/practice_file/_organized/txt/1_first.txt",
+      "hash": "5891b5b522d5df086d0ff0b110fbd9d21bb4fc7163af34d08286a2e846f6be03"
+    },
+    {
+      "path": "/home/rgukt/Desktop/practice_file/_organized/txt/2_second.txt",
+      "hash": "5891b5b522d5df086d0ff0b110fbd9d21bb4fc7163af34d08286a2e846f6be03"
+    },
+    {
+      "path": "/home/rgukt/Desktop/practice_file/_organized/txt/3_third.txt",
+      "hash": "e258d248fda94c63753607f7c4494ee0fcbe92f1a76bfdac795c9d84101eb317"
+    }
+  ]
+}
